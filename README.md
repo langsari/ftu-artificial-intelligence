@@ -1,2 +1,2 @@
-# AI2019-2
+# Artificial Intelligence
 Artificial Intelligence Fundamental class at FTU
